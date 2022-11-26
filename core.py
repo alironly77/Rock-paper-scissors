@@ -1,7 +1,5 @@
 import random
-import pygame
-import time
-pygame.init()
+
 
 print("Welcome To Rock Paper Scissors Game 😀 ")
 UserPoint = 0
